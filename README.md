@@ -1,4 +1,4 @@
-# To Do List App
+# To Do List React.js App
 
 A simple To-Do List web application built using React. With a clean and responsive design, users can efficiently manage their tasks, add new ones, edit existing ones, and remove completed tasks with ease.
 
