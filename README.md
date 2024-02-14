@@ -2,9 +2,7 @@
 
 A simple To-Do List web application built using React. With a clean and responsive design, users can efficiently manage their tasks, add new ones, edit existing ones, and remove completed tasks with ease.
 
-## Features
-### Task Management:  
-Seamlessly add, edit, and delete tasks.
+ Task Management:  Seamlessly add, edit, and delete tasks.
 ### Responsive Design: 
 Ensures a consistent user experience across various devices.
 ### Intuitive Interface: 
