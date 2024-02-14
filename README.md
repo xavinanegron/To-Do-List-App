@@ -1,5 +1,5 @@
-### To Do List App
-
+## To Do List App
+<img width="743" alt="Screenshot 2024-02-14 at 12 50 39 AM" src="https://github.com/xavinanegron/ToDoList/assets/146385936/69a72bd5-8242-438b-8418-5238d359ec37">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
